@@ -1,10 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Isuru%20Chethiya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=55&descSize=16&descAlign=50&align=center)
+
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Isuru%20Chethiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Sri%20Lanka%20🇱🇰&descAlignY=55&descSize=16)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Contributor;Problem+Solver;Coffee-Driven+Coder+☕)](https://git.io/typing-svg)
-
-<br>
 
 **Building things that actually work & shipping code that doesn't wake me up at 3am.**
 
@@ -13,11 +9,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isuruchethiya)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/isuruchethiya)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isuru@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF88.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://isuruchethiya.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C853.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://isuruchethiya.dev)
 
 </div>
 
-![wave](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=header&reversal=true)
+---
 
 ## 🛠 Tech Arsenal
 
@@ -50,24 +46,45 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-![wave](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=30&section=footer)
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=isuruchethiya&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isuruchethiya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuruchethiya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isuruchethiya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&count_private=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isuruchethiya&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isuruchethiya&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isuruchethiya&hide_border=true&background=0D1117&ring=00FF88&fire=FF6B6B&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
-![wave](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=header&reversal=true)
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Isuru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isuruchethiya&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -77,16 +94,7 @@
 
 </div>
 
-![wave](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=30&section=footer)
-
-## 🚀 Pinned Projects
-
-<div align="center">
-
-[![dev-portfolio](https://github-readme-stats.vercel.app/api/pin/?username=isuruchethiya&repo=dev-portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF)](https://github.com/isuruchethiya/dev-portfolio)
-[![api-forge](https://github-readme-stats.vercel.app/api/pin/?username=isuruchethiya&repo=api-forge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF)](https://github.com/isuruchethiya/api-forge)
-
-</div>
+---
 
 <div align="center">
 
@@ -94,4 +102,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Made%20with%20❤️%20%26%20too%20much%20coffee&fontSize=16&fontColor=fff&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20%26%20too%20much%20coffee&fontSize=18&fontColor=fff&fontAlignY=65&align=center)
